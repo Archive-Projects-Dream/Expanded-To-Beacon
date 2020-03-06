@@ -1,0 +1,89 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojAssemblyReference.cache
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.cache
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+D:\aloritm\RGR\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojAssemblyReference.cache
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.cache
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+D:\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojAssemblyReference.cache
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.cache
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Disco-Death\Desktop\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form2.resources
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojAssemblyReference.cache
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.cache
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+D:\aloritm\RGR\GraphicsGraph - копия\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojAssemblyReference.cache
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.cache
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
