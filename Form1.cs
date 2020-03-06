@@ -581,7 +581,7 @@ namespace SystAnalys_lr1
                 e.Handled = true;
             }
         }
-
+        
         //#region [Green] Пошла ЖАРА
         private void Alg_Deixtra()
         {
