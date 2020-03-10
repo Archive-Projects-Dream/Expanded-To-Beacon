@@ -621,7 +621,9 @@ namespace SystAnalys_lr1
             int n = V.Count; // Число точек
             int[,] c    = new int[n,n]; // Длины рёбер
             bool[] flag = new bool[n];  // Флаги
-            int[]  l    = new int[n];
+            int[]  l    = new int[n];   // Мин расстояние?
+
+            // Первый проход по списку, присвоение всем величинам бесконечность
             for (int i = 0; i < n; i++)
             {
                 flag[i] = false;
@@ -652,8 +654,8 @@ namespace SystAnalys_lr1
                     }
                 }
             }
-            l[xn] = 0;
-            flag[xn] = true;
+            l[xn] = 0;          // Устанавливаем что начальная вершина равена: 0
+            flag[xn] = true;    // Устанавливаем что начальная вершина: Пройдена!
             int p = xn;
             // string s    = Convert.ToString(xn + 1);
             do
@@ -682,13 +684,33 @@ namespace SystAnalys_lr1
             }
         } //#endregion
         //#region [Sun]
-        private void RestoreToTravel()
-        {
-            int n = V.Count;
-            int[n] ver;
-            int end;
-            ver[0] = end + 1;
-        }
+        // private void RestoreToTravel()
+        // {
+        //     int n           = V.Count;                
+        //     int[]  ver      = new int[n];               // массив посещенных вершин
+        //     int end         = 4;                        // индекс конечной вершины = 5 - 1
+        //     ver[0]          = end + 1;                  // начальный элемент - конечная вершина
+        //     int k           = 1;                        // Индекс предыдущей вершины
+        //     int weight[end] = l;                        // Вес конечной вершины
+        //     while (end != weight)                       // Пока не дошли до начальной вершины
+        //     {
+        //         for (int i = 0; i < n; i++)             // Просматриваем все вершины
+        //         {
+        //             if (a[end][i] != 0)                 // Если связь есть
+        //             {
+        //                 int temp = weight - a[end][i];  // Определяем вес пути из предыдущей вершины
+        //                 if (temp == d[i])               // Если вес совпал с рассчитанным
+        //                 {
+        //                     weight = temp;              // Сохраняем новый вес
+        //                     end = i;                    // Сохраняем предыдущую вершину
+        //                     ver[k] = i + 1;             // И записываем её в массив
+        //                     k++;
+        //                 }
+        //             }
+
+        //         }
+        //     }
+        // }
         //#endregion
         private void SaveEnter(object sender, KeyEventArgs e)
         {

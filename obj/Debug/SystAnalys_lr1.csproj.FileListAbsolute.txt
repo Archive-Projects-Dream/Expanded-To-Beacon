@@ -87,3 +87,13 @@ C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Deb
 C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.cache
 C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
 C:\Users\Disco-Death\Desktop\GraphicsGraph4\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojAssemblyReference.cache
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.cache
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+D:\Programming\aloritm\RGR\GraphicsGraph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
