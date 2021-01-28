@@ -13,8 +13,8 @@ namespace SystAnalys_lr1
         int[,] AMatrix; //матрица смежности
         int[,] IMatrix; //матрица инцидентности
 
-        int selected1; //выбранные вершины, для соединения линиями
-        int selected2;
+        int selected1 = -1; //выбранные вершины, для соединения линиями
+        int selected2 = -1;
         //#region [Base]
         public Form1()
         {
@@ -459,7 +459,10 @@ namespace SystAnalys_lr1
         }
         private void DijkstraButton_Click(object sender, EventArgs e)
         {
-            Alg_Deixtra();
+            if (selected1 >= 0 && selected2 >= 0)
+            {
+                Alg_Deixtra();
+            }
         }
 
         //обход в глубину. поиск элементарных циклов. (1-white 2-black)
@@ -581,7 +584,7 @@ namespace SystAnalys_lr1
                 e.Handled = true;
             }
         }
-        
+
         //#region [Green] Пошла ЖАРА
         private void Alg_Deixtra()
         {
@@ -595,7 +598,6 @@ namespace SystAnalys_lr1
                 MessageBox.Show("Нет ни одного ребра!");
                 return;
             }
-            string path = Convert.ToString("");
             int minim(int x, int y)
             {
                 if (x < y) return x;
@@ -605,8 +607,20 @@ namespace SystAnalys_lr1
             int min(bool[] fl, int size, int[] le)
             {
                 int result = 0;
-                for (int i = 0; i < size; i++) if (!(fl[i]))                         result = i;
-                for (int i = 0; i < size; i++) if ((le[result] > le[i]) && (!fl[i])) result = i;
+                for (int i = 0; i < size; i++)
+                {
+                    if (!(fl[i]))
+                    {
+                        result = i;
+                    }
+                }
+                for (int i = 0; i < size; i++)
+                {
+                    if ((le[result] > le[i]) && (!fl[i]))
+                    {
+                        result = i;
+                    }
+                }
                 // path += (result + 1) + " ";
                 return result;
             }
@@ -619,9 +633,14 @@ namespace SystAnalys_lr1
                 return;
             }
             int n = V.Count; // Число точек
-            int[,] c    = new int[n,n]; // Длины рёбер
+            int[,] c = new int[n, n]; // Длины рёбер
             bool[] flag = new bool[n];  // Флаги
-            int[]  l    = new int[n];   // Мин расстояние?
+            int[] l = new int[n];   // Мин расстояние?
+            int[] P = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                P[i] = -2;
+            }
 
             // Первый проход по списку, присвоение всем величинам бесконечность
             for (int i = 0; i < n; i++)
@@ -664,16 +683,20 @@ namespace SystAnalys_lr1
                 {
                     if ((c[p, i] != int.MaxValue) && (!flag[i]) && (i != p))
                     {
-                        if (l[i] > l[p] + c[p, i])
-                        {
-                        }
+                        // if (l[i] > l[p] + c[p, i]) { }
+                        int dots = l[i];
                         l[i] = minim(l[i], l[p] + c[p, i]);
+                        if (l[i] != dots)
+                        {
+                            P[i] = p;
+                        }
                     }
                 }
                 p = min(flag, n, l);
                 flag[p] = true;
             }
             while (p != xk);
+            /*
             if (l[p] != int.MaxValue)
             {
                 MessageBox.Show("Путь (Не сушествует): " + (selected1 + 1) + " " + path + Environment.NewLine + "Длина и цена пути: " + l[p]);
@@ -682,6 +705,19 @@ namespace SystAnalys_lr1
             {
                 MessageBox.Show("Путь не существует!");
             }
+            */
+            // 1 2 -2
+            // Как восстановить путь: 1 3 4 5 3 -2
+            string OUT = string.Empty;
+            int current = xk; // начальная точка
+            OUT += (xk + 1) + " ";
+            while (current != xn) // конечная точка
+            {
+                current = P[current];
+                OUT += (current + 1) + " ";
+            }
+            MessageBox.Show(OUT);
+
         } //#endregion
         //#region [Sun]
         // private void RestoreToTravel()
@@ -737,12 +773,12 @@ namespace SystAnalys_lr1
             }
         }
 
-        private void textBox2_KeyDown(object sender, KeyEventArgs e)
+        private void TextBox2_KeyDown(object sender, KeyEventArgs e)
         {
             SaveEnter(sender, e);
         }
 
-        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        private void TextBox1_KeyDown(object sender, KeyEventArgs e)
         {
             SaveEnter(sender, e);
         }
